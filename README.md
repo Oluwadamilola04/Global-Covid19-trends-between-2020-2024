@@ -59,7 +59,7 @@ Data preparation was carried out in **Power Query**, including:
 
 ![Screenshot 2024-10-16 131011](https://github.com/user-attachments/assets/88a5a173-3bb6-4a3a-9539-4037eb7e2057)
 
-## 🔑 Key KPIs
+## 🔑 KPIs
 
 - **World Population:** 8bn  
 - **Total Cases:** 775M  
